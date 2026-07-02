@@ -1,2 +1,2 @@
 # danryle-battery
-beautiful linux battery app
+Beautiful battery health software for Linux.
