@@ -1,2 +1,2 @@
 # danryle-battery
-A beautiful battery app made for Linux.
+Battery app for Linux.
