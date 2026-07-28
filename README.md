@@ -1,2 +1,2 @@
 # danryle-battery
-Battery app for Linux.
+Battery software for Linux.
